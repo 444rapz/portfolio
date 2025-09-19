@@ -21,9 +21,9 @@ const Footer = () => {
                             target="_blank"
                             className="hover:underline hover:text-white"
                         >
-                            Design by Tajmirul
+                            Design & Developed by
                         </a>{' '}
-                        • Modified by rapz © 2025
+                        • rapz © 2025
                     </p>
                 </div>
             </div>
