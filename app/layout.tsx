@@ -12,7 +12,6 @@ import CustomCursor from '@/components/CustomCursor';
 import Preloader from '../components/Preloader';
 import StickyEmail from './_components/StickyEmail';
 import { GoogleAnalytics } from '@next/third-parties/google';
-import Script from 'next/script';
 
 const antonFont = Anton({
     weight: '400',
